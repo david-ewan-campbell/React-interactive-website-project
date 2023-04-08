@@ -1,6 +1,12 @@
 import React from 'react';
 
 class Card extends React.Component {
+
+  componentDidMount() {
+    let user = this.props.match.params.user
+    console.log(this.props)
+  }
+
   render() {
     return(
       <div className='ui raised very padded text container segment'
