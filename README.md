@@ -1,3 +1,11 @@
+# Enjoying the ongoing process of learning React functionality
+- Working my way through Udemy tutorials in how to build an interact site using React. Gradually adding functionality & interactivity/responsiveness by building function & class components & learning Parent/Child relationships and how to pass child components to a Parent App.
+
+- Enjoying the challenges of learning some increasingly more complex functionality & installing/configuring the right functionalities.
+
+- Experienced some issues with changing syntax & different dependencies not working with upgraded versions of React & enjoyed resolving conflicts with different dependencies & React tools such as the React Router/NavBar & Routes that wouldn't work with the most recent version of React 18. Managed to resolve the correct syntax for the version I'm running currently.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

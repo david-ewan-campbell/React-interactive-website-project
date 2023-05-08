@@ -7,7 +7,6 @@ class Card extends React.Component {
   componentDidMount() {
     let user = this.props.match.params.user
     this.setState({ user })
-
   }
 
   render() {
